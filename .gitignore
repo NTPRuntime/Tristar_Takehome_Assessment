@@ -2,3 +2,4 @@
 .DS_Store
 .pytorch_env/*
 *.pth
+*.pkl
