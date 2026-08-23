@@ -18,9 +18,9 @@ Main_Directory
 -> pip_requirements.txt
 -> metal_plate
    |
-   -> ground_truth
-   -> test
-   -> train
+   -> ground_truth/*
+   -> test/*
+   -> train/*
 ```
 
 - NOTE: I used CUDA and my RTX 3070 to build the following models. The same can be run without an NVIDIA GPU but instead on the CPU; it will just take longer to run
