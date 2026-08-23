@@ -4,7 +4,7 @@
 
 - Clone the repository: https://github.com/NTPRuntime/Tristar_Takehome_Assessment.git
 - Have python 3.10.12 or 3.10.X installed (X = 12+)
-- Create the python virtual environment. Since I am on Linux (Ubuntu22.04) I used python3 -m venv .pytorch_venv
+- Create the python virtual environment. Since I am on Linux (Ubuntu22.04) I used `python3 -m venv .pytorch_venv`
 - Activate the virtual environment by running `source .pytorch_venv/bin/activate`
 - Install pip requirements by running `pip3 install -r pip_requirements.txt`
 - View outputs saved within the Jupyter notebooks of prior training session; or run notebooks to verify code runs properly.
