@@ -8,7 +8,7 @@
 - Activate the virtual environment by running `source .pytorch_venv/bin/activate`
 - Install pip requirements by running `pip3 install -r pip_requirements.txt`
 - View outputs saved within the Jupyter notebooks of prior training session.
- - or run notebooks to verify code runs properly.
+⋅⋅⋅⋅- or run notebooks to verify code runs properly.
 - Ensure the dataset is unzipped with the `metal_plate` directory folder at the same level as the jupyter notebooks otherwise the paths will break. View below for text layout.
 
 ```
